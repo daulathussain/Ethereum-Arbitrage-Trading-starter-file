@@ -23,11 +23,11 @@ By the end, you'll have a complete arbitrage DeFi Dapp and the knowledge to buil
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/eth-arbitrage-trader-defi-dapp)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/HSJ3NSr7UKE?si=nz5M4T5iNcU1VwsN)
 
 #### Install Vs Code Editor
 
@@ -48,7 +48,8 @@ Kindly follow the following Instructions to run the project in your system and i
 
 ```
   GET: Project Starter File Download
-  URL:
+  URL: https://www.theblockchaincoders.com/sourceCode/eth-arbitrage-trader-defi-dapp
+  VIDEO: https://youtu.be/HSJ3NSr7UKE?si=nz5M4T5iNcU1VwsN
 ```
 
 All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
@@ -68,7 +69,8 @@ If you download the final source code then you can follow the following instruct
 
 ```
   Download the Final Source Code
-  URL: https://www.theblockchaincoders.com/SourceCode
+   URL: https://www.theblockchaincoders.com/sourceCode/eth-arbitrage-trader-defi-dapp
+   VIDEO: https://youtu.be/HSJ3NSr7UKE?si=nz5M4T5iNcU1VwsN
 ```
 
 #### Install Vs Code Editor
